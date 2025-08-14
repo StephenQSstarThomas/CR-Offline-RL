@@ -2,6 +2,9 @@
 
 中文 | [English](README_en.md)
 
+StephenQS注脚：
+fork自KataCR，准备继续训练公式水人
+
 本仓库为我本科设计全部代码，目标是实现一个仅通过移动设备屏幕获取信息并做出决策的智能体，其设计框架如下
 ![架构](asserts/figures/framework.jpg)
 
